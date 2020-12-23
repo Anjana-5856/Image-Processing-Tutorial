@@ -8,4 +8,7 @@ The grey level or grey value indicates the brightness of a pixel. The minimum gr
 
 Brightness is an attribute of visual perception in which a source appears to be radiating or reflecting light.Contrast is an important factor in any subjective evaluation of image quality. Contrast is created by the difference in luminance reflected from two adjacent surfaces. In other words, contrast is the difference in visual properties that makes an object distinguishable from other objects and the background.
 
-Histogram Equalization is a computer image processing technique used to improve contrast in image. This method usually increases the global contrast of images when its usable data is represented by close contrast values. This allows for areas of lower local contrast to gain a higher contrast.
+Histogram Equalization
+In an image processing context, the histogram of an image normally refers to a histogram of the pixel intensity values. Thus histogram is a graph showing the number of pixels in an image at each different intensity value found in that image.
+
+Histogram Equalization is a computer image processing technique used to improve contrast in image. This method usually increases the global contrast of images when its usable data is represented by close contrast values. This allows for areas of lower local contrast to gain a higher contrast.Image enhancement can be done by Histogram equalization. 
